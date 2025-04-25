@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = [ "dynamic_composite", "dynamic_decorator", "dynamic_visitor", "static_composite", "static_decorator", "static_visitor"]
